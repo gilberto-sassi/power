@@ -1,0 +1,21 @@
+Package: power
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: person(given = "Gilberto",
+           family = "Sassi",
+           role = c("aut", "cre"),
+           email = "sassi.pereira.gilberto@gmail.com",
+           comment = c(ORCID = "000-0002-7779-2398"))
+Maintainer: Gilberto Pereira Sassi <sassi.pereira.gilberto@gmail.com>
+Description: This package computes the power and the sample size for
+    introductory hypothesis. We have implemented sample size to test mean and
+    standar deviation for one populattion, to compare mean and standard
+    deviation for two populations, Pearson's correlation test and 
+    chi-square adherence test and ANOVA.
+License: `use_mit_license()`    
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: http://github.com/gilberto-sassi/power
+BugReports: http://github.com/gilberto-sassi/power/issues
